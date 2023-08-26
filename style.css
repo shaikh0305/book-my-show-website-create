@@ -1,0 +1,35 @@
+body{
+  height: 2000px;
+}
+
+
+
+
+.navbar {
+    background: #333545;
+  }
+
+  .navbar2Color {
+    background: #1f2533;
+  }
+  .new{
+    font-size: 9px;
+    margin-top: -4px;
+    margin-left: 14.8rem;   
+  }
+
+  .logo img{
+    margin-top: -20px;
+  }
+
+  .images img{
+    border-radius: 20px;
+    width: 70rem;
+  }
+
+  .cards img{
+    border-radius: 10px;
+  }
+  /* .text h2{
+    padding-right: 20rem;
+  } */
