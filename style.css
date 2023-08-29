@@ -1,35 +1,83 @@
-body{
-  height: 2000px;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(211, 211, 211, 0.562) !important;
+}
+
+
+.navbar {
+  background: #333545;
+}
+
+.navbar2Color {
+  background: #1f2533;
+}
+
+.new {
+  font-size: 9px;
+  margin-top: -4px;
+  margin-left: 14.8rem;
+}
+
+.logo img {
+  margin-top: -20px;
 }
 
 
 
+.cards img {
+  border-radius: 10px;
+}
 
-.navbar {
-    background: #333545;
-  }
 
-  .navbar2Color {
-    background: #1f2533;
-  }
-  .new{
-    font-size: 9px;
-    margin-top: -4px;
-    margin-left: 14.8rem;   
-  }
 
-  .logo img{
-    margin-top: -20px;
-  }
+.see_all {
+  margin-top: -45px;
+}
 
-  /* .images img{
-    border-radius: 20px;
-    width: f;
-  } */
+.room {
+  padding: 14px 45px 12px 16px;
+  background: white;
 
-  .cards img{
-    border-radius: 10px;
-  }
-  /* .text h2{
-    
-  } */
+}
+
+.bg-primary-custom {
+  background-color: #333545;
+}
+.bg-secondary-custom {
+  background-color: #1f2533;
+}
+
+.box{
+  padding: 14px 45px 12px 16px;
+}
+
+
+.custom-color{
+  color: #666666;
+}
+
+.font-size{
+   font-weight: 600;
+   
+}
+
+.color{
+  background: #333338;
+}
+
+.footer-logo hr{
+  background: rgb(140, 140, 143)
+}
+
+.carousel button{
+  width: 50px;
+  height:40px;
+  
+}
+
+/* .color2{
+  background: #00000066;
+} */
