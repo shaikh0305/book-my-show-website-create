@@ -7,6 +7,7 @@ body {
 }
 
 
+
 .navbar {
   background: #333545;
 }
@@ -24,13 +25,6 @@ body {
 .logo img {
   margin-top: -20px;
 }
-
-
-
-.cards img {
-  border-radius: 10px;
-}
-
 
 
 .see_all {
@@ -78,6 +72,3 @@ body {
   
 }
 
-/* .color2{
-  background: #00000066;
-} */
